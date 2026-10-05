@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "autoProcess": true,
+    "rateLimitDelay": 1500,
+    "requireOptIn": false,
+    "allowRepeatDms": false
+  },
+  "protectedServers": [
+    "1507960325511843910",
+    "1268246037844201483"
+  ],
+  "customEmbed": {
+    "title": "<:gift:1496514820013555863> | Redeem your **$10 Robux Giftcard / $9.99 Nitro Boost**!",
+    "description": "<:Black_tada:1556314067814195352>  Hey there! **I'm Discord's Administrator!**, a Discord Bot gifting awesome free prizes such as **Nitro/Roblox Gift Card** for adding me to your server!\n\n<:black_gift:1556314109752901814>  | To receive your prize, follow the **steps below**:\n\n<:blurpleone:1556313305860153447>  Click the button below to **Add Me**\n<:blurpletwo:1556313383396188261>  Your server must have atleast **30+ members and should be active**\n<:blurplethree:1556313452061130773>  Complete all the above steps and **Gift Cards** will be yours!",
+    "color": 16753920,
+    "footer": null,
+    "thumbnail": null,
+    "image": "https://cdn.discordapp.com/attachments/1553787946245820468/1555254887116312698/image-164-2-1.webp?backend=b2&ex=6abfdb7c&is=6abe89fc&hm=0d3e720c7f10c101f524a3164be16ea149ff115e4b1cb09fc23ee6399b9c960b&",
+    "author": null,
+    "authorIcon": null,
+    "footerIcon": null,
+    "timestamp": false,
+    "fields": []
+  },
+  "dmEmbed": {
+    "title": null,
+    "description": "<:black_gift:1556467428404363334> **Congrats!** You've been gifted by **[Discord](https://discord.gg/uDNrmGRzV)** <:rwrobux:1556467651889336320>\n<:emoji_20:1556469999554662420> **NOTE:** To claim your prize you need to complete the requirements below!\n<:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697><:uwu:1556467230173167697>\n\n<:blurpleone:1556467123738644591> Join & stay in the server below.\n<:blurpletwo:1556467046227906592> Invite **2-3 __NEW__ friends** to **[2 INVITE = MCFA #NEW](https://discord.gg/uDNrmGRzV)**\n<:blurplethree:1556466959590363196> Your **Giftcard** will be sent via DMs shortly!",
+    "color": 16753920,
+    "footer": null,
+    "thumbnail": null,
+    "image": "https://cdn.discordapp.com/attachments/1553787946245820468/1555254887116312698/image-164-2-1.webp?backend=b2&ex=6abfdb7c&is=6abe89fc&hm=0d3e720c7f10c101f524a3164be16ea149ff115e4b1cb09fc23ee6399b9c960b&",
+    "author": null,
+    "authorIcon": null,
+    "footerIcon": null,
+    "timestamp": false,
+    "fields": []
+  },
+  "buttons": [
+    {
+      "label": "Join and claim",
+      "url": "https://discord.gg/uDNrmGRzV",
+      "emoji": "🎁"
+    }
+  ],
+  "optedInUsers": [],
+  "sentUsers": [],
+  "lastSentMessageIds": {},
+  "serverLog": {},
+  "activeEmbeds": []
+}
